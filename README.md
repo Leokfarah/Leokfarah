@@ -20,21 +20,21 @@
   <samp>
     <h2 align="center">🖖🏻 you can reach me by</h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/leonardo-farah-802503129/" target="_blank"><img align="center"
+      <a href="https://www.linkedin.com/in/leonardo-farah-802503129/" target = "_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://www.facebook.com/leokfarah/" target="_blank"><img align="center"
+      <a href="https://www.facebook.com/leokfarah/" target = "_blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:leonardo12farah@gmail.com" target="_blank"><img align="center"
+      <a href="https://mailto:leonardo12farah@gmail.com" target = "_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
     <p align="center">
-      <a href="https://instagram.com/leokfarah" target="_blank"><img align="center"
+      <a href="https://instagram.com/leokfarah" target = "_blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+5541998784652" target="_blank"><img align="center"
+      <a href="https://wa.me/+5541998784652" target = "blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -59,24 +59,24 @@
 <div>
 <h3 align="center">👾 Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
+    <a href="https://www.w3.org/html/" target = "_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"
+    <a href="https://www.w3schools.com/css/" target = "_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a>  
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <a href="https://getbootstrap.com" target = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
+    <a href="https://nodejs.org" target= "_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+    <a href="https://reactjs.org/" target = "_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://git-scm.com/" target = "_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"
       height="40" /> </a> 
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://github.com/" target = "_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"
       height="40" /> </a> 
       </p>
