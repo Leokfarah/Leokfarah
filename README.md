@@ -18,7 +18,7 @@
   <summary><strong>👽 connect with me</strong></summary>
 <div>
   <samp>
-    <h2 align="center">🛸 you can reach me by</h2>
+    <h2 align="center">🛸 You can reach me by</h2>
     <p align="center">
       <a target="_blank" href="https://www.linkedin.com/in/leonardo-farah-802503129/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -46,6 +46,7 @@
 <details>
   <summary><strong>🎓 Degree</strong></summary>
 <div>
+<h2 align="center">👨‍🎓 Academic and professional degrees</h2>
     <p>⚗️ Bachelor in biotechnology</p>
     <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
     <p>👨🏼‍🍳 Chef</p>
