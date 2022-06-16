@@ -1,5 +1,5 @@
 <div align= "center"> 
-<img src="https://medium.com/@dfenjves/hello-world-examples-in-ten-different-languages-2ad8ef3c8685" alt="Hello-World">
+<img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" alt="Hello-World">
 <br>
 <br>
 </div>
@@ -97,10 +97,6 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leokfarah&theme=gruvbox&hide_border=true" />
           </a>
-          <a href="https://Leokfarah.github.io/Leokfarah/">
-          <br>
-          <br>
-          <img  src="https://github.com/Leokfarah/Leokfarah/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
        </p>
      <br>
   </div>    
