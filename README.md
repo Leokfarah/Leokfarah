@@ -97,7 +97,7 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leokfarah&theme=gruvbox&hide_border=true" />
           </a>
-          <a href="https://1999azzar.github.io/1999AZZAR/">
+          <a href="https://Leokfarah.github.io/Leokfarah/">
           <br>
           <br>
           <img  src="https://github.com/Leokfarah/Leokfarah/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
