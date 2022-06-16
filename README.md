@@ -5,7 +5,7 @@
 </div>
 
 <details>
-  <summary>🙋🏻‍♂️ about me</summary>
+  <summary><strong>🙋🏻‍♂️ about me</strong></summary>
 <div>
     <h2 align="center">🙌🏻 Hey! I'm Leonardo Farah</h2>
     <p>🧬 26y</p>
@@ -15,10 +15,10 @@
 </details>
 
 <details>
-  <summary>👽 connect with me</summary>
+  <summary><strong>👽 connect with me</strong></summary>
 <div>
   <samp>
-    <h2 align="center">🖖🏻 you can reach me by</h2>
+    <h2 align="center">🛸 you can reach me by</h2>
     <p align="center">
       <a target="_blank" href="https://www.linkedin.com/in/leonardo-farah-802503129/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>🎓 Degree</summary>
+  <summary><strong>🎓 Degree</strong></summary>
 <div>
     <p>⚗️ Bachelor in biotechnology</p>
     <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary>👨‍💻 Dev knowledge</summary>
+  <summary><strong>👨‍💻 Dev knowledge</strong></summary>
 <div>
 <h3 align="center">👾 Languages and Tools:</h3>
 <p align="left"> 
@@ -73,10 +73,8 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary><strong>📊 GitHub Profile Stats</strong></summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
         <p align="center">
           <a href="https://github.com/Leokfarah/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokfarah&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Leokfarah :: Top Langs" /></a>
@@ -87,13 +85,16 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leokfarah&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
   </div>    
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary><strong>📈 Activity Graph</strong></summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/Leokfarah/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Leokfarah/github-readme-activity-graph"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
+
+<details>
+  <summary><strong>🌈 Nyan?</strong></summary>
+<a target="_blank" href="https://www.nyan.cat/"><img alt="Nyan-Cat!" src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" /></a>
 </details>
