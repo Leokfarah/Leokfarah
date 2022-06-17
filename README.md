@@ -10,7 +10,7 @@
     <h2 align="center">🙌🏻 Hey! I'm Leonardo Farah</h2>
     <p>🧬 26y</p>
     <p>🏡 Living on Curitiba-Brazil</p>
-    <p>🤸‍♂️ Hobbies: 🎮Games 🎤Singing 📚Reading 🐾Pet my dog</p>
+    <p>🤸‍♂️ Hobbies: 🎮Games 🎤Singing 📚Reading 🐾Petting my dog</p>
 </div>
 </details>
 
@@ -97,5 +97,5 @@
 
 <details>
   <summary><strong>🌈 Nyan?</strong></summary>
-<a target="_blank" href="https://www.nyan.cat/#"><img alt="Nyan-Cat!" src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" /></a>
+<a target="_blank" href="https://www.nyan.cat/"><img alt="Nyan-Cat!" src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" /></a>
 </details>
