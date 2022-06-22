@@ -9,7 +9,7 @@
 <div>
     <h2 align="center">🙌🏻 Hey! I'm Leonardo Farah</h2>
     <p>🧬 26y</p>
-    <p>🏡 Living on Curitiba-Brazil</p>
+    <p>🏡 Living in Curitiba-Brazil</p>
     <p>🤸‍♂️ Hobbies: 🎮Games 🎤Singing 📚Reading 🐾Petting my dog</p>
 </div>
 </details>
