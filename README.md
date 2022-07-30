@@ -1,6 +1,5 @@
-<div align= "center"> 
-<img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" alt="Hello-World">
-<br>
+<div> 
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=58A6FF&multiline=true&width=500&height=90&lines=console.log(%22Hello+World!%22);console.log(%22Be+welcome%22)_" alt="Typing SVG" /></a>
 <br>
 </div>
 
@@ -8,7 +7,7 @@
   <summary><strong>👻 about me</strong></summary>
 <div>
     <h2 align="center">Hey! I'm Leonardo Farah</h2>
-      <img src="https://c.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" alt="hey" width="200" align="right"/> 
+    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-42-48.gif" alt="hey" width="200" align="right"/> 
     <p>🧬 27y</p>
     <p>🏡 Living in Curitiba-Brazil</p>
     <p>🤸‍♂️ Hobbies: 🎮Games | 🎥Movies | 🎤Singing | 📚Reading | 🐺Petting my dog</p>
@@ -50,11 +49,13 @@
   <summary><strong>🎓 Degree</strong></summary>
 <div>
 <h2 align="center"> Academic and professional degrees</h2>
-    <p>⚗️ Bachelor in biotechnology</p>
+    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-38-72.gif" alt="sleepyHusky" width="200" align="right"/>
     <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
+    <p>⚗️ Bachelor in biotechnology</p>
     <p>👨🏼‍🍳 Chef</p>
     <p>☕️ Barista</p>
     <p>🍸 Bartender</p>
+     
 </div>
   <br>
 </details>
@@ -105,7 +106,8 @@
   
   <div>  
     <p>
-       <img src="https://c.tenor.com/YFM-crYYA3EAAAAi/jack-skellington-flower.gif" alt="bye" width="200" align="right"/> 
+      <br>
+       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-44-50.gif" alt="sleepyHusky" width="200" align="center"/> 
        <img width="200" height="25" src="https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº" align="left"/>
       </a>
     </p>
