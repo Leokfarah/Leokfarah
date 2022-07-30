@@ -103,5 +103,13 @@
 
 <details>
   <summary><strong>🚂 Visitors</strong></summary>
+  <br>
+  <div>
+    <h2 align="center"> Thanks for coming by 🥰</h2>
+  </div>
+ <div align="right">
+   
  ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🚂_You+are+my+visitor+Nº)
+   
+ </div>
  </details>
