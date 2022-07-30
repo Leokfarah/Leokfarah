@@ -5,13 +5,16 @@
 </div>
 
 <details>
-  <summary><strong>🙋🏻‍♂️ about me</strong></summary>
+  <summary><strong>👻 about me</strong></summary>
 <div>
-    <h2 align="center">🙌🏻 Hey! I'm Leonardo Farah</h2>
-    <p>🧬 26y</p>
+    <h2 align="center">Hey! I'm Leonardo Farah</h2>
+      <img src="https://c.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" alt="hey" width="200" align="right"/> 
+    <p>🧬 27y</p>
     <p>🏡 Living in Curitiba-Brazil</p>
-    <p>🤸‍♂️ Hobbies: 🎮Games 🎤Singing 📚Reading 🐾Petting my dog</p>
+    <p>🤸‍♂️ Hobbies: 🎮Games | 🎥Movies | 🎤Singing | 📚Reading | 🐺Petting my dog</p>
+    
 </div>
+  <br>
 </details>
 
 <details>
@@ -46,19 +49,20 @@
 <details>
   <summary><strong>🎓 Degree</strong></summary>
 <div>
-<h2 align="center">👨‍🎓 Academic and professional degrees</h2>
+<h2 align="center"> Academic and professional degrees</h2>
     <p>⚗️ Bachelor in biotechnology</p>
     <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
     <p>👨🏼‍🍳 Chef</p>
     <p>☕️ Barista</p>
     <p>🍸 Bartender</p>
 </div>
+  <br>
 </details>
 
 <details>
-  <summary><strong>👨‍💻 Dev knowledge</strong></summary>
+  <summary><strong>👾 Dev knowledge</strong></summary>
 <div>
-<h2 align="center">👾 Languages and Tools:</h2>
+<h2 align="center"> Languages and Tools:</h2>
 <p align="center"> 
   <a target="_blank" href="https://github.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>
   <a target="_blank" href="https://git-scm.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
@@ -97,16 +101,7 @@
 </details>
 
 <details>
-  <summary><strong>🌈 Nyan?</strong></summary>
-<a target="_blank" href="https://www.nyan.cat/"><img alt="Nyan-Cat!" src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" /></a>
-</details>
-
-<details>
-  <summary><strong>🚂 Visitors</strong></summary>
-
-  <div>
-    <h2 align="center"> Thanks for coming by! <img src="" alt"" width"10"</h2>
-  </div>
+  <summary><strong>🚂 Visitors, thanks for coming by!</strong></summary>
   
   <div>  
     <p>
