@@ -109,7 +109,7 @@
   </div>
  <div align="right">
    
- ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🚂_You+are+my+visitor+Nº)
+ ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº)
    
  </div>
  </details>
