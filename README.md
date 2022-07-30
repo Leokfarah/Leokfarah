@@ -60,16 +60,16 @@
 <div>
 <h2 align="center">👾 Languages and Tools:</h2>
 <p align="center"> 
+  <a target="_blank" href="https://github.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>
+  <a target="_blank" href="https://git-scm.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
     <a target="_blank" href="https://www.w3.org/html/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a target="_blank" href="https://www.w3schools.com/css/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>  
+    <a target="_blank" href="https://www.w3schools.com/css/" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>  
     <a target="_blank" href="https://getbootstrap.com" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+  <a target="_blank" href="https://reactjs.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> 
+    <a target="_blank" href="https://www.typescriptlang.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> 
     <a target="_blank" href="https://nodejs.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
-    <a target="_blank" href="https://reactjs.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
-    <a target="_blank" href="https://git-scm.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
-    <a target="_blank" href="https://github.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a> 
+     
 </p>
 </div>
 </details>
@@ -100,3 +100,9 @@
   <summary><strong>🌈 Nyan?</strong></summary>
 <a target="_blank" href="https://www.nyan.cat/"><img alt="Nyan-Cat!" src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" /></a>
 </details>
+
+<div align="right">
+
+ ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🍨_Você+é+meu+visitante+Nº)
+
+</div>
