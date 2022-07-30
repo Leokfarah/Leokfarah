@@ -103,4 +103,4 @@
 
 <details>
   <summary><strong>🚂 Visitors</strong></summary>
-![](https://komarev.com/ghpvc/?username=Leokfarah&label=🍨_you+are+my+visit+Nº)
+ ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🚂_You+are+my+visitor+Nº)
