@@ -7,7 +7,7 @@
   <summary><strong>👻 about me</strong></summary>
 <div>
     <h2 align="center">Hey! I'm Leonardo Farah</h2>
-    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-42-48.gif" alt="hey" width="200" align="right"/> 
+    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-42-48.gif" alt="hey" width="170" align="right"/> 
     <p>🧬 27y</p>
     <p>🏡 Living in Curitiba-Brazil</p>
     <p>🤸‍♂️ Hobbies: 🎮Games | 🎥Movies | 🎤Singing | 📚Reading | 🐺Petting my dog</p>
@@ -49,7 +49,7 @@
   <summary><strong>🎓 Degree</strong></summary>
 <div>
 <h2 align="center"> Academic and professional degrees</h2>
-    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-38-72.gif" alt="sleepyHusky" width="200" align="right"/>
+    <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-38-72.gif" alt="sleepyHusky" width="170" align="right"/>
     <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
     <p>⚗️ Bachelor in biotechnology</p>
     <p>👨🏼‍🍳 Chef</p>
@@ -98,7 +98,7 @@
 <details>
   <summary><strong>📈 Activity Graph</strong></summary>
   <br/>
-<a href="https://github.com/Leokfarah/github-readme-activity-graph"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/Leokfarah/"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=000&color=fff&line=58A6FF&point=fff&hide_border=true" /></a>
 </details>
 
 <details>
@@ -107,7 +107,7 @@
   <div>  
     <p>
       <br>
-       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-44-50.gif" alt="sleepyHusky" width="200" align="center"/> 
+       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-44-50.gif" alt="sleepyHusky" width="250" align="center"/> 
        <img width="200" height="25" src="https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº" align="left"/>
       </a>
     </p>
