@@ -103,13 +103,16 @@
 
 <details>
   <summary><strong>🚂 Visitors</strong></summary>
-  <br>
+
   <div>
-    <h2 align="center"> Thanks for coming by 🥰</h2>
+    <h2 align="center"> Thanks for coming by! <img src="" alt"" width"10"</h2>
   </div>
- <div align="right">
-   
- ![](https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº)
-   
- </div>
+  
+  <div>  
+    <p>
+       <img src="https://c.tenor.com/YFM-crYYA3EAAAAi/jack-skellington-flower.gif" alt="bye" width="200" align="right"/> 
+       <img width="200" height="25" src="https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº" align="left"/>
+      </a>
+    </p>
+  </div>
  </details>
