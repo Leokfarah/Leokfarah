@@ -82,14 +82,11 @@
 <details> 
   <summary><strong>📊 GitHub Profile Stats</strong></summary>
   <div>
+  <br>
         <p align="center">
           <a href="https://github.com/Leokfarah/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokfarah&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Leokfarah :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Leokfarah/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leokfarah&theme=gruvbox&hide_border=true" />
+          <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokfarah&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Leokfarah :: Top Langs" />
+          <img width="39.4%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=gruvbox&hide_border=true" />
           </a>
        </p>
   </div>    
@@ -98,7 +95,9 @@
 <details>
   <summary><strong>📈 Activity Graph</strong></summary>
   <br/>
-<a href="https://github.com/Leokfarah/"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=000&color=fff&line=58A6FF&point=fff&hide_border=true" /></a>
+  <p align="center">
+    <a href="https://github.com/Leokfarah/"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=0d1117&color=fff&line=58A6FF&point=fff&hide_border=true" width="85%" /></a>
+  </p>
 </details>
 
 <details>
