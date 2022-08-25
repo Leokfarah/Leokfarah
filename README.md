@@ -93,13 +93,6 @@
 </details>
 
 <details>
-  <summary><strong>📈 Activity Graph</strong></summary>
-  <p align="center">
-    <a href="https://github.com/Leokfarah/"><img alt="Leokfarah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Leokfarah&bg_color=0d1117&color=fff&line=58A6FF&point=fff&hide_border=true" width="85%" /></a>
-  </p>
-</details>
-
-<details>
   <summary><strong>🚂 Visitors, thanks for coming by!</strong></summary>
   
   <div>  
