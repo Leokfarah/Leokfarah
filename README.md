@@ -41,7 +41,8 @@
 <div>
 <h2 align="center"> Academic and professional degrees</h2>
     <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-38-72.gif" alt="sleepyHusky" width="170" align="right"/>
-    <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Front-End</p>
+    <p>💻 On course: Starter Full-Stack Web Developer Program, on <a href="https://www.growdev.com.br/"> GrowDev</a>. Actualy learning Back-End</p>
+    <p>👨🏻‍💻 Front-End web developer</p>
     <p>🧪 Bachelor in biotechnology</p>
     <p>👨🏼‍🍳 Chef</p>
     <p>☕️ Barista</p>
