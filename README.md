@@ -55,7 +55,7 @@
 <details>
   <summary><strong>👾 Dev knowledge</strong></summary>
 <div>
-<h2 align="center">Learning Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <a target="_blank" href="https://github.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a>
   <a target="_blank" href="https://git-scm.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
