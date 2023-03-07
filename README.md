@@ -68,6 +68,7 @@
      <a target="_blank" href="https://mui.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" /> </a> 
        <a target="_blank" href="https://redux-toolkit.js.org/introduction/getting-started" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a> 
        <a target="_blank" href="https://nodejs.org" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50" /> </a>
+         <a target="_blank" href="https://www.postgresql.org/" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" /> </a>
   
      
 </p>
