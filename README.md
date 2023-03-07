@@ -24,13 +24,13 @@
     <p align="center">
       <a target="_blank" href="https://www.linkedin.com/in/leonardo-farah-802503129/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="Linkedin" height="30"/></a>
       <a target="_blank" href="https://mailto:leonardo12farah@gmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="gmail" height="30"/></a>
       <a target="_blank" href="https://wa.me/+5541998784652"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="whatsapp" height="30"/></a>
       <br>
   </samp>
 </div>
