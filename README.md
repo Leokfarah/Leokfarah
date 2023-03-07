@@ -9,7 +9,7 @@
     <h2 align="center">Hey! I'm Leonardo Farah</h2>
     <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-42-48.gif" alt="hey" width="170" align="right"/> 
     <p>🎂 27y</p>
-    <p>🏰 Living in Curitiba-Brazil</p>
+    <p>🏰 Based in Curitiba-PR-Brazil</p>
     <p>🧩 Hobbies: 🎮Games | 🎥Movies | 🎤Singing | 📚Reading | 🐺Petting my dog</p>
     
 </div>
