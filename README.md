@@ -11,7 +11,6 @@
     <p>🎂 27y</p>
     <p>🏰 Based in Curitiba-PR-Brazil</p>
     <p>🧩 Hobbies: 🎮Games | 🎥Movies | 🎤Singing | 📚Reading | 🐺Petting my dog</p>
-    
 </div>
   <br>
 </details>
@@ -30,7 +29,8 @@
          alt="gmail" height="30"/></a>
       <a target="_blank" href="https://wa.me/+5541998784652"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="whatsapp" height="30"/></a>
+         alt="whatsapp" height="30"/></a> 
+    </p>
       <br>
   </samp>
 </div>
@@ -70,7 +70,6 @@
        <a target="_blank" href="https://nodejs.org" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50" /> </a>
          <a target="_blank" href="https://www.postgresql.org/" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" /> </a>
   
-     
 </p>
 </div>
 </details>
@@ -94,8 +93,9 @@
   <div>  
     <p>
       <br>
-       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-44-50.gif" alt="sleepyHusky" width="170" align="center"/> 
        <img width="200" height="25" src="https://komarev.com/ghpvc/?username=Leokfarah&label=🧙‍♂️_You+are+my+visitor+Nº" align="left"/>
+       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-44-50.gif" alt="sleepyHusky" width="170" align="right"/> 
+       <img src="https://pic.funnygifsbox.com/uploads/2021/02/funnygifsbox.com-2021-02-25-14-34-39-9.gif" alt="bikeHusky" width="150" align="center"/>
       </a>
     </p>
   </div>
