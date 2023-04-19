@@ -81,8 +81,8 @@
   <br>
         <p align="center">
           <a href="https://github.com/Leokfarah/">
-          <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokfarah&langs_count=6&theme=dracula&layout=compact&hide_border=true" alt="Leokfarah :: Top Langs" />
-          <img width="39.4%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=dracula&hide_border=true" />
+          <img width="35.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokfarah&langs_count=6&theme=dracula&layout=compact&hide_border=true" alt="Leokfarah :: Top Langs" />
+          <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=Leokfarah&show_icons=true&theme=dracula&hide_border=true" />
           </a>
        </p>
   </div>    
